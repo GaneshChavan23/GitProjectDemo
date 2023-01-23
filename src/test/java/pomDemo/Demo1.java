@@ -12,4 +12,8 @@ public class Demo1 {
 	{
 	System.out.println("Nanasaheb");
 	}
+	public void F()
+	{
+	System.out.println("Pandarpur");
+	}
 }

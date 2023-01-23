@@ -8,4 +8,8 @@ public class Demo1 {
 	{
 	System.out.println("Ganesh");
 	}
+	public void c()
+	{
+	System.out.println("Nanasaheb");
+	}
 }

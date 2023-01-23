@@ -2,58 +2,58 @@
 <testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-23T18:15:24 IST" name="Suite" finished-at="2023-01-23T18:15:37 IST" duration-ms="13721">
+  <suite started-at="2023-01-23T18:33:59 IST" name="Suite" finished-at="2023-01-23T18:34:06 IST" duration-ms="6826">
     <groups>
     </groups>
-    <test started-at="2023-01-23T18:15:24 IST" name="Test" finished-at="2023-01-23T18:15:37 IST" duration-ms="13721">
+    <test started-at="2023-01-23T18:33:59 IST" name="Test" finished-at="2023-01-23T18:34:06 IST" duration-ms="6826">
       <class name="pomDemo.LoginTest">
-        <test-method signature="A()[pri:0, instance:pomDemo.LoginTest@36bc55de]" started-at="2023-01-23T18:15:24 IST" name="A" finished-at="2023-01-23T18:15:37 IST" duration-ms="13553" status="PASS">
+        <test-method signature="A()[pri:0, instance:pomDemo.LoginTest@36bc55de]" started-at="2023-01-23T18:34:00 IST" name="A" finished-at="2023-01-23T18:34:06 IST" duration-ms="6671" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- A -->
       </class> <!-- pomDemo.LoginTest -->
       <class name="pomDemo.Demo">
-        <test-method signature="B()[pri:0, instance:pomDemo.Demo@3febb011]" started-at="2023-01-23T18:15:37 IST" name="B" finished-at="2023-01-23T18:15:37 IST" duration-ms="3" status="PASS">
+        <test-method signature="B()[pri:0, instance:pomDemo.Demo@3febb011]" started-at="2023-01-23T18:34:06 IST" name="B" finished-at="2023-01-23T18:34:06 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- B -->
-        <test-method signature="c()[pri:0, instance:pomDemo.Demo@3febb011]" started-at="2023-01-23T18:15:37 IST" name="c" finished-at="2023-01-23T18:15:37 IST" duration-ms="3" status="PASS">
+        <test-method signature="c()[pri:0, instance:pomDemo.Demo@3febb011]" started-at="2023-01-23T18:34:06 IST" name="c" finished-at="2023-01-23T18:34:06 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- c -->
-        <test-method signature="d()[pri:0, instance:pomDemo.Demo@3febb011]" started-at="2023-01-23T18:15:37 IST" name="d" finished-at="2023-01-23T18:15:37 IST" duration-ms="4" status="PASS">
+        <test-method signature="d()[pri:0, instance:pomDemo.Demo@3febb011]" started-at="2023-01-23T18:34:06 IST" name="d" finished-at="2023-01-23T18:34:06 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- d -->
-        <test-method signature="e()[pri:0, instance:pomDemo.Demo@3febb011]" started-at="2023-01-23T18:15:37 IST" name="e" finished-at="2023-01-23T18:15:37 IST" duration-ms="3" status="PASS">
+        <test-method signature="e()[pri:0, instance:pomDemo.Demo@3febb011]" started-at="2023-01-23T18:34:06 IST" name="e" finished-at="2023-01-23T18:34:06 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- e -->
       </class> <!-- pomDemo.Demo -->
       <class name="pomDemo.Demo1">
-        <test-method signature="B()[pri:0, instance:pomDemo.Demo1@131774fe]" started-at="2023-01-23T18:15:37 IST" name="B" finished-at="2023-01-23T18:15:37 IST" duration-ms="1" status="PASS">
+        <test-method signature="B()[pri:0, instance:pomDemo.Demo1@131774fe]" started-at="2023-01-23T18:34:06 IST" name="B" finished-at="2023-01-23T18:34:06 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- B -->
-        <test-method signature="F()[pri:0, instance:pomDemo.Demo1@131774fe]" started-at="2023-01-23T18:15:37 IST" name="F" finished-at="2023-01-23T18:15:37 IST" duration-ms="9" status="PASS">
+        <test-method signature="F()[pri:0, instance:pomDemo.Demo1@131774fe]" started-at="2023-01-23T18:34:06 IST" name="F" finished-at="2023-01-23T18:34:06 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- F -->
-        <test-method signature="c()[pri:0, instance:pomDemo.Demo1@131774fe]" started-at="2023-01-23T18:15:37 IST" name="c" finished-at="2023-01-23T18:15:37 IST" duration-ms="4" status="PASS">
+        <test-method signature="c()[pri:0, instance:pomDemo.Demo1@131774fe]" started-at="2023-01-23T18:34:06 IST" name="c" finished-at="2023-01-23T18:34:06 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- c -->
-        <test-method signature="g()[pri:0, instance:pomDemo.Demo1@131774fe]" started-at="2023-01-23T18:15:37 IST" name="g" finished-at="2023-01-23T18:15:37 IST" duration-ms="3" status="PASS">
+        <test-method signature="g()[pri:0, instance:pomDemo.Demo1@131774fe]" started-at="2023-01-23T18:34:06 IST" name="g" finished-at="2023-01-23T18:34:06 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- g -->
       </class> <!-- pomDemo.Demo1 -->
       <class name="pomDemo.Demo2">
-        <test-method signature="B()[pri:0, instance:pomDemo.Demo2@158d2680]" started-at="2023-01-23T18:15:37 IST" name="B" finished-at="2023-01-23T18:15:37 IST" duration-ms="2" status="PASS">
+        <test-method signature="B()[pri:0, instance:pomDemo.Demo2@158d2680]" started-at="2023-01-23T18:34:06 IST" name="B" finished-at="2023-01-23T18:34:06 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- B -->
-        <test-method signature="c()[pri:0, instance:pomDemo.Demo2@158d2680]" started-at="2023-01-23T18:15:37 IST" name="c" finished-at="2023-01-23T18:15:37 IST" duration-ms="4" status="PASS">
+        <test-method signature="c()[pri:0, instance:pomDemo.Demo2@158d2680]" started-at="2023-01-23T18:34:06 IST" name="c" finished-at="2023-01-23T18:34:06 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- c -->

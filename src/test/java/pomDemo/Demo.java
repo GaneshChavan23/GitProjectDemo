@@ -19,6 +19,10 @@ public class Demo
 	public void d()
 	{
 	System.out.println("Hello Amol");
+	System.out.println("Hello A");
+	System.out.println("Hello Am");
+	System.out.println("Hello Amo");
+	System.out.println("Hello Amol");
 }
 	@Test
 	public void e()

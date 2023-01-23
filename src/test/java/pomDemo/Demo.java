@@ -15,4 +15,14 @@ public class Demo
 	{
 	System.out.println("Hello Umesh");
 }
+	@Test
+	public void d()
+	{
+	System.out.println("Hello Amol");
+}
+	@Test
+	public void e()
+	{
+	System.out.println("Hello Dada");
+}
 }
